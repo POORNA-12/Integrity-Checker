@@ -19,5 +19,7 @@ Features:- ✅ Accepts file path input from the user. ✅ Calculates the SHA-256
 🛠️ Technologies Used:- Python – Main programming language hashlib – For SHA-256 hashing tkinter – For graphical user interface (optional)
 
 🙌 Contributors GADDE PURNA AJAY – Developer
+
+
 #OUTPUT
 ![integrity-checker](https://github.com/user-attachments/assets/ca1c160a-badb-470b-9ddf-e296cb6de4bc)
